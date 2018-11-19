@@ -1,1 +1,2 @@
-###Labo CNW \n \n  Dit is het labo **Computer Networks**
+###Labo CNW
+Dit is het labo **Computer Networks**
